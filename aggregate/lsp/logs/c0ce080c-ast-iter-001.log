@@ -1,0 +1,7 @@
+[2026-11-08T01:27:28Z] === AST ITERATION 1 START | repo=run-llama/llama_deploy sha=c0ce080c ===
+[2026-11-08T01:27:28Z] [iter=1] PHASE START: ast repo=run-llama/llama_deploy sha=c0ce080c
+[2026-11-08T01:27:28Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T01:29:16Z] [iter=1] AST chunks built count=1 triples=904011
+[2026-11-08T01:29:16Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/c0ce080c10f8eff23d929b2ce95a1b9203f80a8e/.complete
+[2026-11-08T01:29:16Z] [iter=1] PHASE END: ast elapsed_s=108 elapsed_min=1.8
+[2026-11-08T01:29:16Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
